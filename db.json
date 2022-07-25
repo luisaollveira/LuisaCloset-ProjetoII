@@ -1,0 +1,81 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Cropped"
+      },
+      {
+        "id": 2,
+        "tipo": "Regata"
+      },
+      {
+        "id": 3,
+        "tipo": "Camiseta"
+      },
+      {
+        "id": 4,
+        "tipo": "Body"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Saia"
+      },
+      {
+        "id": 2,
+        "tipo": "Calça moom"
+      },
+      {
+        "id": 3,
+        "tipo": "Calça skinny"
+      },
+      {
+        "id": 4,
+        "tipo": "Shorts"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Cinto"
+      },
+      {
+        "id": 2,
+        "tipo": "Gargantilha"
+      },
+      {
+        "id": 3,
+        "tipo": "Brincos"
+      },
+      {
+        "id": 4,
+        "tipo": "Cadarço colorido"
+      },
+      {
+        "id": 4,
+        "tipo": "Óculos de sol"
+      },
+      {
+        "id": 4,
+        "tipo": "Pulseira"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em verificação de estoque"
+    },
+    {
+      "id": 3,
+      "tipo": "Look finalizado e enviado por email!"
+    }
+  ],
+  "burgers": []
+}
